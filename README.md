@@ -36,22 +36,22 @@
 
 ## Скриншоты работы программы
 Рисуонк 1 - Гавное меню программы
-<img src="./pictures/mainmenu.png">
+<img src="./pictures/mainmenu.PNG">
 
 Рисунок 2 - Таблица с информацией о клиентах
-<img src="./pictures/Client.png">
+<img src="./pictures/Client.PNG">
 
 Рисунок 3 - Работа с поиском клиентов в таблице
-<img src="./pictures/FindClient.png">
+<img src="./pictures/FindClient.PNG">
 
 Рисунок 4 - Таблица с информацией о счетах клиентов
-<img src="./pictures/Bills.png">
+<img src="./pictures/Bills.PNG">
 
 Рисунок 5 - Работа с функциями таблицы счетов (пополнение счёта)
-<img src="./pictures/PlusMoney.png">
+<img src="./pictures/PlusMoney.PNG">
 
 Рисунок 6 - Работа с функциями таблицы счетов (списание средств)
-<img src="./pictures/GiveMoney.png">
+<img src="./pictures/GiveMoney.PNG">
 
 Рисунок 7 - Отчёт за день
-<img src="./pictures/report.png">
+<img src="./pictures/report.PNG">
