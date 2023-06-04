@@ -33,3 +33,25 @@
 
 ## UML-диаграмма
 <img src="./pictures/UML-AWS.png">
+
+## Скриншоты работы программы
+Рисуонк 1 - Гавное меню программы
+<img src="./pictures/mainmenu.png">
+
+Рисунок 2 - Таблица с информацией о клиентах
+<img src="./pictures/Client.png">
+
+Рисунок 3 - Работа с поиском клиентов в таблице
+<img src="./pictures/FindClient.png">
+
+Рисунок 4 - Таблица с информацией о счетах клиентов
+<img src="./pictures/Bills.png">
+
+Рисунок 5 - Работа с функциями таблицы счетов (пополнение счёта)
+<img src="./pictures/PlusMoney.png">
+
+Рисунок 6 - Работа с функциями таблицы счетов (списание средств)
+<img src="./pictures/GiveMoney.png">
+
+Рисунок 7 - Отчёт за день
+<img src="./pictures/report.png">
