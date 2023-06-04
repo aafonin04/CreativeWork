@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fon.jpg</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>

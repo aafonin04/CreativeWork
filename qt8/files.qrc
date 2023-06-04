@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fon.jpg</file>
+        <file>main2.png</file>
+        <file>moneylogo.png</file>
+        <file>valute.png</file>
+        <file>bd.png</file>
+        <file>bdfind.png</file>
+        <file>addbd.png</file>
+        <file>codew.png</file>
+        <file>delbd.png</file>
+        <file>Shablon-dlya-sayta.png</file>
+        <file>izgotovlenie-faksimile-300x300.png</file>
+    </qresource>
+</RCC>
